@@ -1,0 +1,8 @@
+E:\自习Demo\WebApp\Bll\bin\Debug\netcoreapp2.1\Bll.deps.json
+E:\自习Demo\WebApp\Bll\bin\Debug\netcoreapp2.1\Bll.dll
+E:\自习Demo\WebApp\Bll\bin\Debug\netcoreapp2.1\Bll.pdb
+E:\自习Demo\WebApp\Bll\obj\Debug\netcoreapp2.1\Bll.csproj.CoreCompileInputs.cache
+E:\自习Demo\WebApp\Bll\obj\Debug\netcoreapp2.1\Bll.AssemblyInfoInputs.cache
+E:\自习Demo\WebApp\Bll\obj\Debug\netcoreapp2.1\Bll.AssemblyInfo.cs
+E:\自习Demo\WebApp\Bll\obj\Debug\netcoreapp2.1\Bll.dll
+E:\自习Demo\WebApp\Bll\obj\Debug\netcoreapp2.1\Bll.pdb
